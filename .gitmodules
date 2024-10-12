@@ -1,0 +1,3 @@
+[submodule "clients/Pico_W"]
+	path = clients/Pico_W
+	url = git@github.com:SantiSheridan/Pico_W.git
